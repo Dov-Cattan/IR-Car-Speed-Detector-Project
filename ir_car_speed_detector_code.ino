@@ -1,3 +1,5 @@
+/*Code was made for Arduino by https://github.com/embeddedlab786 
+and then edited by me to be used for the ESP32 MCU and TCRT5000 IR Sensor*/
 #include <LiquidCrystal.h>
  
 // initialize the library with the numbers of the interface pins
